@@ -1,1 +1,3 @@
-# Word-Guess-Game
+# Word-Guess-Game - WORD OF THRONES
+
+## 

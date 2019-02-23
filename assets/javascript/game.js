@@ -78,7 +78,7 @@ function displayPhoto(medieval) {
     } else if (medieval == "castle") {
         medievalImage.src = "assets/images/castle.jpg"
     } else if (medieval == "moat") {
-        medievalImage.src = "assets/images/moat.jpg"
+        medievalImage.src = "assets/images/moat.jpeg"
     } else if (medieval == "drawbridge") {
         medievalImage.src = "assets/images/drawbridge.jpg"
     }

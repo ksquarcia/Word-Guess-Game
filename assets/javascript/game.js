@@ -21,7 +21,6 @@ var computerWord = [];
 
 // this function will reset the game after a win or loss
 function resetGame() {
-    console.log("------------------------------------------------");
 
     attempts = 12;
     attemptsText.textContent = attempts;
@@ -62,7 +61,7 @@ function checkArrays(arr1, arr2) {
     return true;
 }
 
-// function to display animal photo after a win
+// function to display photo after a win
 function displayPhoto(medieval) {
     if (medieval == "longbow") {
         medievalImage.src = "assets/images/longbow.jpg"
@@ -133,7 +132,7 @@ document.onkeyup = function(event) {
         if (checkArrays(hiddenWord, computerWord)) {
             numWins += 1;
             winsText.textContent = numWins;
-            displayPhoto();
+            displayPhoto(computerChoice);
             resetGame();
         }
         // conditions for a loss

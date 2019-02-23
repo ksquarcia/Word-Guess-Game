@@ -5,9 +5,11 @@
 
 ---
 
+#### Home Page
+
 ![alt text](https://github.com/ksquarcia2008/Word-Guess-Game/blob/master/assets/images/page1-word.png?raw=true) 
 
-
+#### Correct Word Guessed
 
 ![alt text](https://github.com/ksquarcia2008/Word-Guess-Game/blob/master/assets/images/page2-word.png?raw=true) 
 

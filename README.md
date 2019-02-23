@@ -5,6 +5,13 @@
 
 ---
 
+![alt text](https://github.com/ksquarcia2008/Word-Guess-Game/blob/master/assets/images/page1-word.png?raw=true) 
+
+
+
+![alt text](https://github.com/ksquarcia2008/Word-Guess-Game/blob/master/assets/images/page2-word.png?raw=true) 
+
+
 ---
 
 -Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions, 80s sound and an 80s aesthetic. 
